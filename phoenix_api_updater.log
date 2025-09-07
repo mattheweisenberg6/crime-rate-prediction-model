@@ -1,0 +1,14 @@
+2025-09-07 00:50:35,423 - INFO - API call successful: 5 records fetched (total available: 604881)
+2025-09-07 00:50:51,594 - INFO - ============================================================
+2025-09-07 00:50:52,095 - INFO -    Last modified: 2025-09-06T12:11:21.420067
+2025-09-07 00:50:52,344 - INFO - Incremental update since: 2025-08-29 23:32:00
+2025-09-07 00:50:52,344 - INFO - Starting to fetch new records from Phoenix API...
+2025-09-07 00:50:52,345 - INFO - Fetching records newer than 2025-08-29
+2025-09-07 00:50:53,276 - INFO - API call successful: 0 records fetched (total available: 0)
+2025-09-07 00:51:06,635 - INFO - API call successful: 5 records fetched (total available: 604881)
+2025-09-07 00:59:11,721 - INFO - ============================================================
+2025-09-07 00:59:12,717 - INFO -    Last modified: 2025-09-06T12:11:21.420067
+2025-09-07 00:59:12,883 - INFO - Incremental update since: 2025-08-29 23:32:00
+2025-09-07 00:59:12,883 - INFO - Starting to fetch new records from Phoenix API...
+2025-09-07 00:59:12,884 - INFO - Fetching records newer than 2025-08-29
+2025-09-07 00:59:13,907 - INFO - API call successful: 0 records fetched (total available: 0)

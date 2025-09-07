@@ -1,0 +1,22 @@
+2025-09-07 00:41:46,964 - INFO - ============================================================
+2025-09-07 00:41:47,219 - INFO - Database schema updated
+2025-09-07 00:41:47,221 - INFO - Downloading latest Phoenix crime data...
+2025-09-07 00:42:05,607 - INFO - Downloaded phoenix_crimes_20250907_004149.csv (72,740,480 bytes)
+2025-09-07 00:42:06,038 - INFO - Latest date in database: 2025-08-26 23:44:00
+2025-09-07 00:42:07,719 - INFO - Cleaning Phoenix data - Starting with 604,881 records
+2025-09-07 00:42:07,872 - INFO - Mapped columns: ['incident_id', 'crime_type', 'occurred_date', 'occurred_to_date', 'address', 'zip_code', 'premise_type', 'grid_id']
+2025-09-07 00:42:08,199 - INFO - Removed 0 records with invalid incident_id
+2025-09-07 00:42:09,331 - INFO - Removed 419 records with invalid occurred_date
+2025-09-07 00:42:11,670 - INFO - Removed 6 duplicate incident_ids
+2025-09-07 00:42:11,751 - INFO - Incremental update: 568 records newer than 2025-08-25
+2025-09-07 00:42:11,756 - INFO -    Date range: 2025-08-26 00:00:00 to 2025-08-30 23:32:00
+2025-09-07 00:42:11,759 - INFO -    Crime types: 8 unique
+2025-09-07 00:42:11,760 - INFO - Inserting 568 new records into database...
+2025-09-07 00:42:11,837 - INFO - Filtered out 107 existing records
+2025-09-07 00:42:12,010 - INFO - Total records in database: 604,411
+2025-09-07 00:45:47,397 - INFO -    (Phoenix updates their data daily at 11:00 AM)
+2025-09-07 00:45:47,398 - INFO -    Press Ctrl+C to stop
+2025-09-07 00:46:11,617 - INFO - ============================================================
+2025-09-07 00:46:11,731 - INFO - Database schema updated
+2025-09-07 00:46:11,731 - INFO - Downloading latest Phoenix crime data...
+2025-09-07 00:46:16,145 - INFO - Downloaded phoenix_crimes_20250907_004613.csv (72,740,480 bytes)
